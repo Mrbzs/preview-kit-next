@@ -3,7 +3,7 @@
 Running production server:
 
 ```bash
-npm run install
+npm install
 ```
 
 ```bash
